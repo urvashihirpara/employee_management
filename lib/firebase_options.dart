@@ -85,4 +85,5 @@ class DefaultFirebaseOptions {
     storageBucket: 'employeemanagment-766bf.firebasestorage.app',
     measurementId: 'G-TN4KDRJC9S',
   );
+
 }
