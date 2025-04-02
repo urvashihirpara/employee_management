@@ -164,6 +164,24 @@
       "languageVersion": "3.0"
     },
     {
+      "name": "firebase_core",
+      "rootUri": "file:///Users/urvashihirpara/.pub-cache/hosted/pub.dev/firebase_core-3.13.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
+    },
+    {
+      "name": "firebase_core_platform_interface",
+      "rootUri": "file:///Users/urvashihirpara/.pub-cache/hosted/pub.dev/firebase_core_platform_interface-5.4.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
+    },
+    {
+      "name": "firebase_core_web",
+      "rootUri": "file:///Users/urvashihirpara/.pub-cache/hosted/pub.dev/firebase_core_web-2.22.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
       "name": "fixnum",
       "rootUri": "file:///Users/urvashihirpara/.pub-cache/hosted/pub.dev/fixnum-1.1.1",
       "packageUri": "lib/",
@@ -196,6 +214,12 @@
     {
       "name": "flutter_test",
       "rootUri": "file:///Users/urvashihirpara/Desktop/Developer/flutter/packages/flutter_test",
+      "packageUri": "lib/",
+      "languageVersion": "3.7"
+    },
+    {
+      "name": "flutter_web_plugins",
+      "rootUri": "file:///Users/urvashihirpara/Desktop/Developer/flutter/packages/flutter_web_plugins",
       "packageUri": "lib/",
       "languageVersion": "3.7"
     },
@@ -578,7 +602,7 @@
       "languageVersion": "3.7"
     }
   ],
-  "generated": "2025-04-02T06:22:55.927627Z",
+  "generated": "2025-04-02T08:24:04.236358Z",
   "generator": "pub",
   "generatorVersion": "3.7.2",
   "flutterRoot": "file:///Users/urvashihirpara/Desktop/Developer/flutter",

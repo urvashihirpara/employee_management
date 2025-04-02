@@ -1,0 +1,55 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "employeemanagment-766bf",
+          "appId": "1:59873367224:android:f4cf185f5d59b0c482904d",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "ios": {
+        "default": {
+          "projectId": "employeemanagment-766bf",
+          "appId": "1:59873367224:ios:2695dfee6da792e682904d",
+          "uploadDebugSymbols": false,
+          "fileOutput": "ios/Runner/GoogleService-Info.plist"
+        }
+      },
+      "macos": {
+        "default": {
+          "projectId": "employeemanagment-766bf",
+          "appId": "1:59873367224:ios:2695dfee6da792e682904d",
+          "uploadDebugSymbols": false,
+          "fileOutput": "macos/Runner/GoogleService-Info.plist"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "employeemanagment-766bf",
+          "configurations": {
+            "android": "1:59873367224:android:f4cf185f5d59b0c482904d",
+            "ios": "1:59873367224:ios:2695dfee6da792e682904d",
+            "macos": "1:59873367224:ios:2695dfee6da792e682904d",
+            "web": "1:59873367224:web:608fd4dfe23425e182904d",
+            "windows": "1:59873367224:web:dc645c830c4e7a9182904d"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "public": "emp_management",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}
